@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
+metafile = true
+
+[[files]]
+file = "mods/ic2-classic.pw.toml"
+hash = "8293b2a6bf54f40eed92f51dae2bcc720d50b9f9dbc6aac08f59eb48d53be7aa"
+metafile = true
+
+[[files]]
 file = "mods/packwiz-installer.pw.toml"
 hash = "be706d1b9cf683a461474dd1a74448542c4b04818d51efe5ebad64fcb3da97d1"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
 metafile = true
