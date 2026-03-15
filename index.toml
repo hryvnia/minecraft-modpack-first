@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "instance.cfg"
-hash = "f8318af2ab0e31e3596dd9869786de006d772bea7570c6017a9a30c277c522ac"
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
 metafile = true
