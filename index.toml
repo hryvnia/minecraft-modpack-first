@@ -31,11 +31,6 @@ hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
 
 [[files]]
-file = "mods/mekanism.pw.toml"
-hash = "36b3da73d8ce3dfaa5c9a5dae7db10df3ee25f0d32cff6e1cde5407c5e6f271f"
-metafile = true
-
-[[files]]
 file = "mods/packwiz-installer-bootstrap.pw.toml"
 hash = "304daf20211cf0e45e68e15a65c9260f17684b6d8fbfae52286e40d5b7a5f135"
 metafile = true
