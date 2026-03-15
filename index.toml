@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "6ef81f8c63f2266f2075d800a2f629bde4213ee91b36600628bf8e7900f2532f"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
 metafile = true
@@ -28,4 +33,9 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0136dbc530293d8074c4a128fd468acd6d0047e01ba717db9fce876e551cd6b0"
 metafile = true
