@@ -54,7 +54,3 @@ metafile = true
 file = "mods/xaeros-minimap.pw.toml"
 hash = "750a656765bdbc25bf45ea9708a02ef7ebda0193f8be8e6028568c8abce42025"
 metafile = true
-
-[[files]]
-file = "purge.sh"
-hash = "92a96b83bee0a14bbd637bbb3c68e1755914f1883e1c5aeff04ac0fe9e15a6d7"
