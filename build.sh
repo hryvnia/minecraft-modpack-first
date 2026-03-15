@@ -4,7 +4,7 @@
 PACK_NAME="Minecraft Modpack First"
 MC_VERSION="1.19.2"
 FORGE_VERSION="43.5.0"
-PACK_TOML_URL="https://raw.githubusercontent.com/hryvnia/minecraft-modpack-first/main/pack.toml"
+PACK_TOML_URL="https://cdn.jsdelivr.net/gh/hryvnia/minecraft-modpack-first@main/pack.toml"
 BOOTSTRAP_URL="https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 OUTPUT_ZIP="modpack.zip"
 
