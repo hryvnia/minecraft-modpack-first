@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/packwiz-installer.pw.toml"
+hash = "be706d1b9cf683a461474dd1a74448542c4b04818d51efe5ebad64fcb3da97d1"
+metafile = true
