@@ -20,6 +20,11 @@ hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "ad54be618733be1237696a8550543bde2fcd66b54f404f18bc55f24f8aff41eb"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
@@ -37,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "270449307f70aa1546d5ceb557b69c73de2a2b158c73b114aa59ea678e4364a0"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
 metafile = true
 
 [[files]]
@@ -67,4 +82,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "750a656765bdbc25bf45ea9708a02ef7ebda0193f8be8e6028568c8abce42025"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9c24dac5b612e04e8996efbf0c5b367c56ea2ec2551da50d0183563149727b36"
 metafile = true
