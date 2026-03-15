@@ -11,8 +11,8 @@ hash = "8293b2a6bf54f40eed92f51dae2bcc720d50b9f9dbc6aac08f59eb48d53be7aa"
 metafile = true
 
 [[files]]
-file = "mods/packwiz-installer.pw.toml"
-hash = "be706d1b9cf683a461474dd1a74448542c4b04818d51efe5ebad64fcb3da97d1"
+file = "mods/packwiz-installer-bootstrap.pw.toml"
+hash = "304daf20211cf0e45e68e15a65c9260f17684b6d8fbfae52286e40d5b7a5f135"
 metafile = true
 
 [[files]]

@@ -1,8 +1,0 @@
-name = "packwiz-installer"
-filename = "packwiz-installer.jar"
-side = "both"
-
-[download]
-url = "https://github.com/packwiz/packwiz-installer/releases/latest/download/packwiz-installer.jar"
-hash-format = "sha256"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
