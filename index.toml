@@ -15,8 +15,33 @@ hash = "6ef81f8c63f2266f2075d800a2f629bde4213ee91b36600628bf8e7900f2532f"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "72eccadc73951e4c5468ca88628f29c17fb9282ef35df42374febd89eb13358a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "3c3db423d76d506a075a7b55a33b7bed658141002de9edc337ed496b1620d857"
+metafile = true
+
+[[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "3e603354259980b2042067954aeba0cf0ef26cdfbcbc222c74ff259be9e723be"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "b5f5ad1499a895f3622ebc5e0ea6294b3733dc2f9888e77355822e470b6d4931"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
 metafile = true
 
 [[files]]
@@ -27,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/ic2-classic.pw.toml"
 hash = "8293b2a6bf54f40eed92f51dae2bcc720d50b9f9dbc6aac08f59eb48d53be7aa"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "59bfe727c8345c80b01d0bd7c6fa194234ad3130187bb2fafffb5b6aab37285b"
 metafile = true
 
 [[files]]
@@ -50,8 +80,18 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
+file = "mods/official-divinerpg.pw.toml"
+hash = "84eba68a171891689a0eb5c9bee6eac8884f0d44260bf8d3ad94c2923d192550"
+metafile = true
+
+[[files]]
 file = "mods/packwiz-installer-bootstrap.pw.toml"
 hash = "304daf20211cf0e45e68e15a65c9260f17684b6d8fbfae52286e40d5b7a5f135"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "cce83680c833e2deec6be88c37516d0e4fabd064841d4ca7a517bbd90b7b8a73"
 metafile = true
 
 [[files]]

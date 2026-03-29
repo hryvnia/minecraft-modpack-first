@@ -1,0 +1,13 @@
+name = "DivineRPG (Official)"
+filename = "DivineRPG-1.9.6.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee8a8f2ed39798ae2cb96698cbc5b90c452ce561"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4921656
+project-id = 363543
