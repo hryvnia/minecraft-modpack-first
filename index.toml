@@ -23,6 +23,11 @@ hash = "6ef81f8c63f2266f2075d800a2f629bde4213ee91b36600628bf8e7900f2532f"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "97575aefd081117027b3ac2c24bf7a56b927b41c9f724d91b0eb42442236b4f6"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "72eccadc73951e4c5468ca88628f29c17fb9282ef35df42374febd89eb13358a"
 metafile = true
@@ -58,6 +63,11 @@ hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
 file = "mods/ic2-classic.pw.toml"
 hash = "8293b2a6bf54f40eed92f51dae2bcc720d50b9f9dbc6aac08f59eb48d53be7aa"
 metafile = true
@@ -88,8 +98,18 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
+metafile = true
+
+[[files]]
 file = "mods/official-divinerpg.pw.toml"
 hash = "84eba68a171891689a0eb5c9bee6eac8884f0d44260bf8d3ad94c2923d192550"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "66fcbdd0beadfbfe224172207dcdd182e1b1f5e61a74af414f458b3a79619336"
 metafile = true
 
 [[files]]
@@ -100,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "cce83680c833e2deec6be88c37516d0e4fabd064841d4ca7a517bbd90b7b8a73"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
 metafile = true
 
 [[files]]
