@@ -88,11 +88,6 @@ hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
 
 [[files]]
-file = "mods/lightmans-currency.pw.toml"
-hash = "9c534f30553400b1fcebcc2dbff8c6e5474ce3cadc447bf9e82c8b15585d65a7"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d5ebd6a072c380a9872729df7c48021f5f187329f51afbfcee43e952c49f6d08"
 metafile = true
