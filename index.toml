@@ -118,6 +118,16 @@ hash = "304daf20211cf0e45e68e15a65c9260f17684b6d8fbfae52286e40d5b7a5f135"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "09ab13fcd0cf69efbf65e4290f3161353bd843d34f7822a378e70130c9d45cf0"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "cd4c69e89dfedd86b8fafed75279c7c4bb5b461c54a9721b7db548d75ab9b311"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "cce83680c833e2deec6be88c37516d0e4fabd064841d4ca7a517bbd90b7b8a73"
 metafile = true
