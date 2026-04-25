@@ -1,0 +1,6 @@
+autoJump:true
+fov:0.625
+guiScale:4
+lang:ru_ru
+skipMultiplayerWarning:true
+soundCategory_music:0.0

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh release *)",
+      "Bash(curl -s \"https://hryvnia.github.io/minecraft-modpack-first/pack.toml\")"
+    ]
+  }
+}
