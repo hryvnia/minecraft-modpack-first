@@ -1,4 +1,4 @@
-name = "Minecraft Modpack First"
+name = "Spontan"
 author = "hryvnia"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f13d9b5866cc42bd2208f20274b51db8089f19d763c9fff951930f5fe2fe8abe"
+hash = ""
 
 [versions]
-forge = "43.5.0"
-minecraft = "1.19.2"
+neoforge = "21.1.172"
+minecraft = "1.21.1"
