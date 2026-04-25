@@ -1,0 +1,13 @@
+name = "Butchery"
+filename = "butchery-4.9-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0a75f70ad3875a580b85af1cfcd1b4b8a2c64f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7974745
+project-id = 973620
