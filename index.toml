@@ -1,1 +1,13 @@
 hash-format = "sha256"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "198eaf468d8a5b80ace8a5089d27a089ec44f37de911f26891931b7269e65d40"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "edf0f930f04c9ec2f6bdc25530edeaf3b7283e82c55d600fcd615c3f89651f47"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"

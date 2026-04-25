@@ -1,2 +1,6 @@
 build.sh
 purge.sh
+.github/
+.claude/
+modpack.zip
+spontan.zip
