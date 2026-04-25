@@ -12,11 +12,11 @@ echo "Building $PACK_NAME..."
 
 # Clean
 rm -rf build_tmp
-mkdir -p build_tmp/.minecraft/mods
+mkdir -p build_tmp/.minecraft
 
 # Download bootstrap
 echo "Downloading packwiz-installer-bootstrap..."
-curl -L "$BOOTSTRAP_URL" -o "build_tmp/.minecraft/mods/packwiz-installer-bootstrap.jar"
+curl -L "$BOOTSTRAP_URL" -o "build_tmp/.minecraft/packwiz-installer-bootstrap.jar"
 
 # Create mmc-pack.json
 cat > build_tmp/mmc-pack.json << EOF
@@ -40,7 +40,7 @@ EOF
 cat > build_tmp/instance.cfg << EOF
 InstanceType=OneSix
 OverrideCommands=true
-PreLaunchCommand="\$INST_JAVA" -jar "\$INST_MC_DIR/mods/packwiz-installer-bootstrap.jar" $PACK_TOML_URL
+PreLaunchCommand="\$INST_JAVA" -jar "\$INST_MC_DIR/packwiz-installer-bootstrap.jar" $PACK_TOML_URL
 name=$PACK_NAME
 EOF
 
