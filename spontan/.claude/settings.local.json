@@ -11,7 +11,9 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "Bash(git push *)",
-      "Bash(packwiz curseforge *)"
+      "Bash(packwiz curseforge *)",
+      "Bash(curl -s \"https://hryvnia.github.io/minecraft-modpack-first/spontan/index.toml\")",
+      "Bash(awk '{print $1}')"
     ]
   }
 }

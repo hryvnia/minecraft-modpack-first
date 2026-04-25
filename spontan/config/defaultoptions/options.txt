@@ -1,4 +1,4 @@
-autoJump:true
+autoJump:false
 fov:0.625
 guiScale:4
 lang:ru_ru

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "198eaf468d8a5b80ace8a5089d27a089ec44f37de911f26891931b7269e65d40"
+hash = "3026406ff97956ac60ff3f6c8fc7d1df2200aa12da54ecb33433d0db98a70eb9"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -208,6 +208,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "beb54362d0e8c0c52f9479cb5ee27a6f8fc8c954fd24b547951647b43dca2463"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
@@ -245,6 +250,21 @@ metafile = true
 [[files]]
 file = "mods/fragmentum-neoforge.pw.toml"
 hash = "1aa4b52a5b0da050ebaf2375847589940c9fa55424a29d5d81378cb33422ca05"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "aaa5d15a2ebf6ae368561fc49d7994ffa5084138942095cb4ded4c8921189437"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "810e1fce6db6ac0a6bfce460c0908ed8e9b33648fddbb65db849aba368e8d7bc"
 metafile = true
 
 [[files]]
