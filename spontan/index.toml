@@ -11,3 +11,8 @@ hash = "edf0f930f04c9ec2f6bdc25530edeaf3b7283e82c55d600fcd615c3f89651f47"
 [[files]]
 file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
