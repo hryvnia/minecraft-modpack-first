@@ -3,7 +3,7 @@
 # Config
 PACK_NAME="Spontan"
 MC_VERSION="1.21.1"
-NEOFORGE_VERSION="21.1.172"
+NEOFORGE_VERSION="21.1.228"
 PACK_TOML_URL="https://hryvnia.github.io/minecraft-modpack-first/spontan/pack.toml"
 BOOTSTRAP_URL="https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 OUTPUT_ZIP="spontan.zip"
