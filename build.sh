@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Config
-PACK_NAME="Minecraft Modpack First"
-MC_VERSION="1.19.2"
-FORGE_VERSION="43.5.0"
-PACK_TOML_URL="https://hryvnia.github.io/minecraft-modpack-first/pack.toml"
+PACK_NAME="Spontan"
+MC_VERSION="1.21.1"
+NEOFORGE_VERSION="21.1.172"
+PACK_TOML_URL="https://hryvnia.github.io/minecraft-modpack-first/spontan/pack.toml"
 BOOTSTRAP_URL="https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 OUTPUT_ZIP="modpack.zip"
 
@@ -28,8 +28,8 @@ cat > build_tmp/mmc-pack.json << EOF
             "version": "$MC_VERSION"
         },
         {
-            "uid": "net.minecraftforge",
-            "version": "$FORGE_VERSION"
+            "uid": "net.neoforged",
+            "version": "$NEOFORGE_VERSION"
         }
     ],
     "formatVersion": 1
