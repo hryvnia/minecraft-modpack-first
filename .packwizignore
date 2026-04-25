@@ -2,6 +2,7 @@ build.sh
 purge.sh
 server-setup.bat
 server-setup.sh
+spontan-server/
 .github/
 .claude/
 modpack.zip
