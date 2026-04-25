@@ -1,5 +1,7 @@
 build.sh
 purge.sh
+server-setup.bat
+server-setup.sh
 .github/
 .claude/
 modpack.zip
