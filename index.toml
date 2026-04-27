@@ -68,11 +68,6 @@ hash = "bc559bd6b8b6deecf9db14fb3ae8cddf8442731ee53512c9043a707306895791"
 metafile = true
 
 [[files]]
-file = "mods/carry-on-extend.pw.toml"
-hash = "66190c4a7d229a9b052022e7425100dc253731f648c778058be78d240482420b"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
 metafile = true
@@ -280,11 +275,6 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
-metafile = true
-
-[[files]]
-file = "mods/gaucho.pw.toml"
-hash = "18c7be573eb5b58c825cf6290a6e89ce1fd72d5f9fd351ac9ef7fbefadb5db84"
 metafile = true
 
 [[files]]
