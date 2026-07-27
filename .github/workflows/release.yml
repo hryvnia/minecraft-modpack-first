@@ -1,0 +1,44 @@
+name: Release (base)
+
+on:
+  push:
+    branches:
+      - base
+    tags:
+      - 'base-*'
+
+jobs:
+  deploy-pages:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/base'
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy to gh-pages/base/
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          destination_dir: base
+          keep_files: true
+          exclude_assets: '.github,build.sh,purge.sh,.gitignore,.gitattributes,.packwizignore,.DS_Store'
+
+  build-and-release:
+    name: Build and upload to release
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/base-')
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build modpack zip
+        run: bash build.sh
+
+      - name: Upload zip to release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: base.zip

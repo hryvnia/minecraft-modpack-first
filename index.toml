@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "82df8fcd6665dd41a47905462f96d9e9984a5cdb5f7182712844654f5520a264"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "198eaf468d8a5b80ace8a5089d27a089ec44f37de911f26891931b7269e65d40"
 
@@ -18,58 +22,13 @@ hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "6ef81f8c63f2266f2075d800a2f629bde4213ee91b36600628bf8e7900f2532f"
-metafile = true
-
-[[files]]
-file = "mods/corgilib.pw.toml"
-hash = "97575aefd081117027b3ac2c24bf7a56b927b41c9f724d91b0eb42442236b4f6"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "72eccadc73951e4c5468ca88628f29c17fb9282ef35df42374febd89eb13358a"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "3c3db423d76d506a075a7b55a33b7bed658141002de9edc337ed496b1620d857"
 metafile = true
 
 [[files]]
-file = "mods/extra-disks.pw.toml"
-hash = "3e603354259980b2042067954aeba0cf0ef26cdfbcbc222c74ff259be9e723be"
-metafile = true
-
-[[files]]
-file = "mods/falling-tree.pw.toml"
-hash = "b5f5ad1499a895f3622ebc5e0ea6294b3733dc2f9888e77355822e470b6d4931"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
-metafile = true
-
-[[files]]
-file = "mods/ic2-classic.pw.toml"
-hash = "8293b2a6bf54f40eed92f51dae2bcc720d50b9f9dbc6aac08f59eb48d53be7aa"
 metafile = true
 
 [[files]]
@@ -98,21 +57,6 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
-metafile = true
-
-[[files]]
-file = "mods/official-divinerpg.pw.toml"
-hash = "84eba68a171891689a0eb5c9bee6eac8884f0d44260bf8d3ad94c2923d192550"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "66fcbdd0beadfbfe224172207dcdd182e1b1f5e61a74af414f458b3a79619336"
-metafile = true
-
-[[files]]
 file = "mods/packwiz-installer-bootstrap.pw.toml"
 hash = "304daf20211cf0e45e68e15a65c9260f17684b6d8fbfae52286e40d5b7a5f135"
 metafile = true
@@ -120,26 +64,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "09ab13fcd0cf69efbf65e4290f3161353bd843d34f7822a378e70130c9d45cf0"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "cd4c69e89dfedd86b8fafed75279c7c4bb5b461c54a9721b7db548d75ab9b311"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "cce83680c833e2deec6be88c37516d0e4fabd064841d4ca7a517bbd90b7b8a73"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "0136dbc530293d8074c4a128fd468acd6d0047e01ba717db9fce876e551cd6b0"
 metafile = true
 
 [[files]]

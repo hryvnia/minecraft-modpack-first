@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Config
-PACK_NAME="Minecraft Modpack First"
+PACK_NAME="Base"
 MC_VERSION="1.19.2"
 FORGE_VERSION="43.5.0"
-PACK_TOML_URL="https://hryvnia.github.io/minecraft-modpack-first/pack.toml"
+PACK_TOML_URL="https://hryvnia.github.io/minecraft-modpack-first/base/pack.toml"
 BOOTSTRAP_URL="https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
-OUTPUT_ZIP="modpack.zip"
+OUTPUT_ZIP="base.zip"
 
 echo "Building $PACK_NAME..."
 

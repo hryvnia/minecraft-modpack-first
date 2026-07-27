@@ -1,4 +1,4 @@
-name = "Minecraft Modpack First"
+name = "Base"
 author = "hryvnia"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f13d9b5866cc42bd2208f20274b51db8089f19d763c9fff951930f5fe2fe8abe"
+hash = "b58466791e0fef8fe53d47db764d4611352303ac2066c91918004efce457ec30"
 
 [versions]
 forge = "43.5.0"
