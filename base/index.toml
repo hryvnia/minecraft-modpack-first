@@ -22,6 +22,11 @@ hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "6ef81f8c63f2266f2075d800a2f629bde4213ee91b36600628bf8e7900f2532f"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "3c3db423d76d506a075a7b55a33b7bed658141002de9edc337ed496b1620d857"
 metafile = true
@@ -64,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "09ab13fcd0cf69efbf65e4290f3161353bd843d34f7822a378e70130c9d45cf0"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "cd4c69e89dfedd86b8fafed75279c7c4bb5b461c54a9721b7db548d75ab9b311"
 metafile = true
 
 [[files]]
